@@ -19,22 +19,36 @@ Copyright: **[Insert: Company Name]**
 
 ##Table Of Contents
 
--  Introduction
+-  [Introduction](#intro)
+-  [Purpose and Scope](#purpose)
+-  [Key Features](#keyfeatures)
+-  [Related Documents](#relateddocs)
+-  [Assumptions](#assumptions)
+-  [Revision History](#revisionhistory)
+-  [Open Issues](#openissues)
+-  [Functional Modules](#functionalmodules)
+-  [Common Functionality](#commonfunctionality)
+-  [Information Map](#infomap)
+-  [User Stories](#userstories)
+-  [Error Cases](#errorcases)
+-  [Mock-up Screens](#mocks)
+-  [iPhone Specific Functionality](#iphone)
+-  [Android Specific Functionality](#android)
+-  [Windows Phone Specific Functionality](#windows)
+-  [Blackberry Specific Functionality](#blackberry)
+-  [Symbian Specific Functionality](#symbian)
 
-Can we do anchor links here?
-
-
-##Introduction
+## <a name="intro"></a>Introduction
 
 This document presents the functional specification of the application that will be delivered for each mobile platform.
 
-###Purpose and Scope
+### <a name="purpose"></a>Purpose and Scope
 
 Define what the App's purpose is, for example "To give users alternate access experience to their Facebook account".
 
 Outline the Scope, this is the boundaries the App will work within, so for example: This App will not be supporting the Chinese market only the EU.
 
-###Key Features
+### <a name="keyfeatures"></a>Key Features
 
 Briefly list the key features of the App here, don't go in to detail, just a high level list.
 
@@ -42,11 +56,11 @@ Briefly list the key features of the App here, don't go in to detail, just a hig
 -  Key Feature 
 -  Key Feature 
 
-###Related Documents
+### <a name="relateddocs"></a>Related Documents
 
 List or link to any other related documentation here, this could be an external set of screens, a link to a prototype, assets files or anything.
 
-###Assumptions
+### <a name="assumptions"></a>Assumptions
 
 | Number | Description                                          |
 | -------|:-----------------------------------------------------|
@@ -55,7 +69,7 @@ List or link to any other related documentation here, this could be an external 
 | 3      | The application will be localised for UK only        |
 
 
-###Revision History
+### <a name="revisionhistory"></a>Revision History
 
 You may not need this table if you use an online system to maintain the document, it's mostly for the Word users.
 
@@ -64,7 +78,7 @@ You may not need this table if you use an online system to maintain the document
 | 1.0      | Vincent Pickering                                    |
 
 
-###Open Issues
+### <a name="openissues"></a>Open Issues
 
 You may not need this table if you use an online system to maintain the document, it's mostly for the Word users.
 
@@ -72,7 +86,7 @@ You may not need this table if you use an online system to maintain the document
 | ----------|:-----------------------------------------------------|
 | AB1       | Revise the logo to use the correct brand colour      |
 
-##Functional Modules
+## <a name="functionalmodules"></a>Functional Modules
 
 | ID     | Description                                       | Revision  |
 | -------|:--------------------------------------------------| ---------:|
@@ -80,7 +94,7 @@ You may not need this table if you use an online system to maintain the document
 | CB2    | The black and white colours Will invert at night  | 1.0       |
 
 
-##Common Functionality
+## <a name="commonfunctionality"></a>Common Functionality
 
 -  Wire-frames
 -  Mock-ups
@@ -91,29 +105,29 @@ You may not need this table if you use an online system to maintain the document
 -  Function 3
 -  Function 4
 
-###Information Map
+### <a name="infomap"></a>Information Map
 
 - Information Map Diagram
 
-###User Stories
+### <a name="userstories"></a>User Stories
 
 -  As a ____, I can ____ so that ____
 -  As a ____, I can ____ so that ____
 -  As a ____, I can ____ so that ____
 -  As a ____, I can ____ so that ____
 
-###Error Cases
+### <a name="errorcases"></a>Error Cases
 
 | Ref       | Error Behaviour                                                             | Related to |
 | ----------|:----------------------------------------------------------------------------| -----------|
 | AB1       | When a user incorrectly enters their password, display an error message     | BA1        |
 | AB2       | When a user incorrectly enters their username, display an error message     | BA2        |
 
-###Mock-up Screens
+### <a name="mocks"></a>Mock-up Screens
 
 If you are only working on one platform add each screen here with a reference. Otherwise, add them under each specific platform below.
 
-##iPhone Specific Functionality
+## <a name="iphone"></a>iPhone Specific Functionality
 
 Describe key features unique to this device.
 
@@ -127,7 +141,7 @@ Include:
 -  Error Cases 
 -  Screens
 
-##Android Specific Functionality
+## <a name="android"></a>Android Specific Functionality
 
 Describe key features unique to this device.
 
@@ -141,7 +155,7 @@ Include:
 -  Error Cases 
 -  Screens
 
-##Windows Phone Specific Functionality
+## <a name="windows"></a>Windows Phone Specific Functionality
 
 Describe key features unique to this device.
 
@@ -155,7 +169,7 @@ Include:
 -  Error Cases 
 -  Screens
 
-##Blackberry Specific Functionality
+## <a name="blackberry"></a>Blackberry Specific Functionality
 
 Describe key features unique to this device.
 
@@ -169,7 +183,7 @@ Include:
 -  Error Cases 
 -  Screens
 
-##Symbian Specific Functionality
+## <a name="symbian"></a>Symbian Specific Functionality
 
 Describe key features unique to this device.
 
