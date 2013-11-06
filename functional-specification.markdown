@@ -1,19 +1,19 @@
 #[Insert: Application Name]
 ##Functional Specification Document
 
-Created by: [Insert:Company Name]
+Created by: *[Insert: Company Name]*
 
-Creation Date:[Insert:Date Created]
+Creation Date: *[Insert: Date Created]*
 
-Last Modified:[Insert:Last Modified Date]
+Last Modified: *[Insert: Last Modified Date]*
 
-Status:[Insert:Draft/Release]
+Status: *[Insert: Draft/Release]*
 
-Version:[Insert:Version Number]
+Version: *[Insert: Version Number]*
 
-Confidentiality:[Insert:Public/Private]
+Confidentiality: *[Insert: Public/Private]*
 
-Copyright:[Insert:Company Name]
+Copyright: *[Insert: Company Name]*
 
 ---
 
