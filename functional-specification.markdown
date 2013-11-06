@@ -2,6 +2,8 @@
 
 ##Functional Specification Document
 
+|                   |                                   |
+|:------------------|:----------------------------------|
 | Created by        | **[Insert: Company Name]**        |
 | Creation Date     | **[Insert: Date Created]**        |
 | Last Modified     | **[Insert: Last Modified Date]**  |
