@@ -2,11 +2,17 @@
 ##Functional Specification Document
 
 Created by: [Insert:Company Name]
+
 Creation Date:[Insert:Date Created]
+
 Last Modified:[Insert:Last Modified Date]
+
 Status:[Insert:Draft/Release]
+
 Version:[Insert:Version Number]
+
 Confidentiality:[Insert:Public/Private]
+
 Copyright:[Insert:Company Name]
 
 ---
@@ -25,6 +31,7 @@ This document presents the functional specification of the application that will
 ###Purpose and Scope
 
 Define what the App's purpose is, for example "To give users alternate access experience to their facebook account".
+
 Outline the Scope, this is the boundaries the App will work within, so for example: This App will not be supporting the Chinese market only the EU.
 
 ###Key Features
@@ -38,7 +45,7 @@ List or link to any other related documentation here, this could be an external 
 ###Assumptions
 
 | Number | Description                                          |
-| -------|:----------------------------------------------------:|
+| -------|:-----------------------------------------------------|
 | 1      | Only iOS7 and above supported                        |
 | 2      | User has internet connection                         |
 | 3      | The application will be localised for UK only        |
@@ -49,7 +56,7 @@ List or link to any other related documentation here, this could be an external 
 You may not need this table if you use an online system to maintain the document, it's mostly for the Word users.
 
 | Version  | Editor                                               |
-| ---------|:----------------------------------------------------:|
+| ---------|:-----------------------------------------------------|
 | 1.0      | Vincent Pickering                                    |
 
 
@@ -58,13 +65,13 @@ You may not need this table if you use an online system to maintain the document
 You may not need this table if you use an online system to maintain the document, it's mostly for the Word users.
 
 | Issue ID  | Description                                          |
-| ----------|:----------------------------------------------------:|
+| ----------|:-----------------------------------------------------|
 | AB1       | Revise the logo to use the correct brand colour      |
 
 ##Functional Modules
 
 | ID     | Description                                 | Revision  |
-| -------|:-------------------------------------------:| ---------:|
+| -------|:--------------------------------------------| ---------:|
 | AB1    | The User Can..                              | 1.0       |
 | AB2    | The User Can..                              | 1.0       |
 | AB3    | The User Can..                              | 1.0       |
