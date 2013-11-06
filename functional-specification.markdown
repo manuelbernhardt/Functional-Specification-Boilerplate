@@ -1,19 +1,19 @@
 #[Insert: Application Name]
 ##Functional Specification Document
 
-Created by: *[Insert: Company Name]*
+Created by: **[Insert: Company Name]**
 
-Creation Date: *[Insert: Date Created]*
+Creation Date: **[Insert: Date Created]**
 
-Last Modified: *[Insert: Last Modified Date]*
+Last Modified: **[Insert: Last Modified Date]**
 
-Status: *[Insert: Draft/Release]*
+Status: **[Insert: Draft/Release]**
 
-Version: *[Insert: Version Number]*
+Version: **[Insert: Version Number]**
 
-Confidentiality: *[Insert: Public/Private]*
+Confidentiality: **[Insert: Public/Private]**
 
-Copyright: *[Insert: Company Name]*
+Copyright: **[Insert: Company Name]**
 
 ---
 
@@ -30,7 +30,7 @@ This document presents the functional specification of the application that will
 
 ###Purpose and Scope
 
-Define what the App's purpose is, for example "To give users alternate access experience to their facebook account".
+Define what the App's purpose is, for example "To give users alternate access experience to their Facebook account".
 
 Outline the Scope, this is the boundaries the App will work within, so for example: This App will not be supporting the Chinese market only the EU.
 
@@ -74,11 +74,10 @@ You may not need this table if you use an online system to maintain the document
 
 ##Functional Modules
 
-| ID     | Description                                 | Revision  |
-| -------|:--------------------------------------------| ---------:|
-| AB1    | The User Can..                              | 1.0       |
-| AB2    | The User Can..                              | 1.0       |
-| AB3    | The User Can..                              | 1.0       |
+| ID     | Description                                       | Revision  |
+| -------|:--------------------------------------------------| ---------:|
+| CB1    | The application will minimise network usage       | 1.0       |
+| CB2    | The black and white colours Will invert at night  | 1.0       |
 
 
 ##Common Functionality
@@ -100,9 +99,10 @@ You may not need this table if you use an online system to maintain the document
 
 ###Error Cases
 
-| Ref       | Error Behaviour                                      | Related to |
-| ----------|:-----------------------------------------------------| -----------|
+| Ref       | Error Behaviour                                                             | Related to |
+| ----------|:----------------------------------------------------------------------------| -----------|
 | AB1       | When a user incorrectly enters their password, display an error message     | BA1        |
+| AB2       | When a user incorrectly enters their username, display an error message     | BA2        |
 
 ###Mock-up Screens
 
