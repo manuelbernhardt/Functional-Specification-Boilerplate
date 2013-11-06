@@ -38,6 +38,10 @@ Outline the Scope, this is the boundaries the App will work within, so for examp
 
 Briefly list the key features of the App here, don't go in to detail, just a high level list.
 
+-  Key Feature 
+-  Key Feature 
+-  Key Feature 
+
 ###Related Documents
 
 List or link to any other related documentation here, this could be an external set of screens, a link to a prototype, assets files or anything.
@@ -79,7 +83,7 @@ You may not need this table if you use an online system to maintain the document
 
 ##Common Functionality
 
--  Wireframes
+-  Wire-frames
 -  Mock-ups
 -  Measurements
 -  General
@@ -94,6 +98,15 @@ You may not need this table if you use an online system to maintain the document
 
 ###User Stories
 
+###Error Cases
+
+| Ref       | Error Behaviour                                      | Related to |
+| ----------|:-----------------------------------------------------| -----------|
+| AB1       | When a user incorrectly enters their password, display an error message     | BA1        |
+
+###Mock-up Screens
+
+If you are only working on one platform add each screen here with a reference. Otherwise, add them under each specific platform below.
 
 ##iPhone Specific Functionality
 
