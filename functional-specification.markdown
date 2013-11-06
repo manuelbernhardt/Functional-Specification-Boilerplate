@@ -97,6 +97,11 @@ You may not need this table if you use an online system to maintain the document
 
 ###User Stories
 
+-  As a ____, I can ____ so that ____
+-  As a ____, I can ____ so that ____
+-  As a ____, I can ____ so that ____
+-  As a ____, I can ____ so that ____
+
 ###Error Cases
 
 | Ref       | Error Behaviour                                                             | Related to |
